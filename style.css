@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.h3-header{
+    padding-left: 10%;
+}
+.pera-1{
+    font-size: small;
+
+}
+section{
+    display: flex;
+    padding: 10%
+}
+.half-width{
+    width: 50%;
+    font-size: x-large;
+}
+.half-width img{
+ width: 100%;
+}
+.anchor-button{
+    text-decoration: none;
+    background-color: deeppink;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+
+}
