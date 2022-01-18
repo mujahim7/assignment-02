@@ -39,9 +39,14 @@ font-size: 10px;
     width: 30%;
 }
 .link-button{
+    margin: 0px 0px 40px 800px;
     text-decoration: none;
     font: bold;
     color: deeppink;
+  
+}
+.link-div{
+    margin-bottom: 5px;
 }
 
 footer{
