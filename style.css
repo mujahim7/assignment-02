@@ -38,6 +38,11 @@ font-size: 10px;
     margin: 5px;
     width: 30%;
 }
+.link-button{
+    text-decoration: none;
+    font: bold;
+    color: deeppink;
+}
 
 
 
