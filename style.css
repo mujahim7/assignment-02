@@ -30,6 +30,12 @@ font-size: 10px;
 .mid-header{
     text-align: center;
 }
+.box-div img{
+    width: 100%;
+}
+.box-div{
+    margin: 5px;
+}
 
 
 
