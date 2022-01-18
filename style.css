@@ -25,5 +25,25 @@ section{
     color: white;
     padding: 5px;
     border-radius: 10px;
+font-size: 10px;
+}
+.mid-header{
+    text-align: center;
+}
 
+
+
+
+
+
+
+
+
+
+footer{
+    font-style: italic;
+    text-align: center;
+    color: white;
+    background-color: indigo;
+    
 }
